@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/JavaApplication1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="dist/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="dist/lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="dist/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="dist/lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="dist/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="dist/lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="dist/lib/freetts.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mbrola.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mssql-jdbc-9.4.0.jre16.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sqlite-jdbc-3.36.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/cmudict04.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/cmulex.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/en_us.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/freetts.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/jsapi.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi/mbrola.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.36.0.3.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

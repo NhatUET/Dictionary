@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b01fd94-8420-4c04-a801-a46bbb7308d2" name="Changes" comment="updated edit word show meaning">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/MenuFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/addFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/addFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/addFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/addFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/addFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/addFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/addFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/addFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/addFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/addFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/editFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/editFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/editFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/editFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/editFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/editFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/editFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/editFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/ggFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/removeFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/removeFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/removeFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/removeFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/removeFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/removeFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppFrame/searchFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppLogic/DatabaseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppLogic/DatabaseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppLogic/Dictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppLogic/Dictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppLogic/DictionaryManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppLogic/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/AppLogic/Translator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/AppLogic/Translator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/modify/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/res/modify/data.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppFrame/MenuFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppFrame/MenuFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppFrame/MenuFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppFrame/MenuFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppFrame/addFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppFrame/addFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppFrame/addFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppFrame/addFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppFrame/searchFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppFrame/searchFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppFrame/searchFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppFrame/searchFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLogic/DatabaseManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLogic/DatabaseManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLogic/DictionaryManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLogic/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLogic/Translator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLogic/Translator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1zf70bIO8qP1HhYf1FRnmiFd2iD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.MenuFrame">
+    <configuration name="DatabaseManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppLogic.DatabaseManagement" />
+      <module name="DictionaryApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppLogic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppFrame.MenuFrame" />
+      <module name="DictionaryApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppLogic.Test" />
+      <module name="DictionaryApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppLogic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="editFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppFrame.editFrame" />
+      <module name="DictionaryApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MenuFrame" />
+        <item itemvalue="Application.editFrame" />
+        <item itemvalue="Application.DatabaseManagement" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b01fd94-8420-4c04-a801-a46bbb7308d2" name="Changes" comment="" />
+      <created>1634527069892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634527069892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="updated edit word show meaning" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated edit word show meaning" />
+  </component>
+</project>
